@@ -1,0 +1,30 @@
+{
+  "name": "zxcsoft",
+  "version": "1.0.0",
+  "description": "zxcsoft web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "zxcsoft"
+  ],
+  "author": "hu18650",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-comments": "^1.4.6",
+    "@vuepress/plugin-last-updated": "^1.5.2",
+    "@vuepress/plugin-nprogress": "^1.5.2",
+    "iconv-lite": "^0.6.2",
+    "moment": "^2.27.0",
+    "vuepress": "^1.5.2",
+    "vuepress-plugin-meting": "^0.1.1",
+    "vuepress-theme-reco": "^1.5.4"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vuepress-plugin-flowchart": "^1.4.3"
+  }
+}
