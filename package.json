@@ -14,14 +14,14 @@
   "author": "hu18650",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress-reco/vuepress-plugin-comments": "^1.4.6",
-    "@vuepress/plugin-last-updated": "^1.5.2",
-    "@vuepress/plugin-nprogress": "^1.5.2",
+    "@vuepress-reco/vuepress-plugin-comments": "^1.6.0",
+    "@vuepress/plugin-last-updated": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
     "iconv-lite": "^0.6.2",
-    "moment": "^2.27.0",
-    "vuepress": "^1.5.2",
-    "vuepress-plugin-meting": "^0.1.1",
-    "vuepress-theme-reco": "^1.5.4"
+    "moment": "^2.29.1",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-meting": "^0.2.3",
+    "vuepress-theme-reco": "^1.6.6"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
